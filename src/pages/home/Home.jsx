@@ -16,7 +16,6 @@ export class Home extends Component {
            <Feed />
            <Rightbar />
            </div>
-
            </>
         )
     }

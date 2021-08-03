@@ -44,18 +44,3 @@ padding: 20px;
     margin: 0px; 
     padding: 0px;
 }
-.sidebarfriends{
-    display: flex;
-    align-items: center;
-    margin-bottom: 12px;
-}
-.sidebarImg{
-    width: 32px;
-    height: 32px;
-    border-radius: 50%;
-    object-fit: cover;    
-
-}
-.sidebarFriendName {
-    margin-left: 10px;
-}

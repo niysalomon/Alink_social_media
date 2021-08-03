@@ -6,6 +6,7 @@
     align-items: center;
     position: sticky;
     top: 0;
+    z-index: 999;
 
 }
 .log {
@@ -59,8 +60,14 @@
    
 }
 .topbarLinks {
-    margin-right: 12px;
-    display: flex;
+    margin-left: 20px;
+    display: flex;  
+    cursor: pointer;
+
+}
+.topbarLink{
+    font-weight: 500; 
+    
 }
 .topbarIcon{
     display: flex;
