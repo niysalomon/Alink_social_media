@@ -1,6 +1,6 @@
 import './sidebar.css';
 import {RssFeed,HelpOutline,WorkOutline,Event,School,Chat, PlayCircleFilledOutlined, Group, Bookmark} from '@material-ui/icons';
-import CloseFriends, {CLoseFriends} from '../CloseFriends/CloseFriends';
+import CloseFriends from '../CloseFriends/CloseFriends';
 import {Users} from '../../dammyData';
 function Sidebar() {
     return (
