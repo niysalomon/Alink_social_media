@@ -14,7 +14,7 @@
     margin-left: 20px;
     font-weight: bold;
     color: cornsilk;
-    cursor: pointer;
+    cursor: pointer; 
 }
 .topbarSearch{
     width: 100%;
@@ -63,10 +63,12 @@
     margin-left: 20px;
     display: flex;  
     cursor: pointer;
+   
 
 }
 .topbarLink{
     font-weight: 500; 
+    margin: 4px;
     
 }
 .topbarIcon{
