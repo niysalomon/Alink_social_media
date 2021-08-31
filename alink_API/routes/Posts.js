@@ -85,7 +85,7 @@ router.get("/timeline/:userId", async(req,res) =>{
     }
 })
 
-// get user's posts
+// get user's posts ftrom API
 
 router.get("/profile/:username", async(req,res) =>{
   
